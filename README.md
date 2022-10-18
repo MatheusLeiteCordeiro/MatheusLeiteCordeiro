@@ -3,9 +3,10 @@
 
 <img align="right" src="https://cdn-icons-png.flaticon.com/512/4668/4668078.png"></img>
 
-- 📫 Como me achar: **https://www.linkedin.com/in/matheus-leite-cordeiro/**
-- 🔭 Trabalho: **Trabalho como freelancer, quando sobra tempo dos estudos**
-- ⚡ Fato divertido: **Devo ser o único programador não gamer kkkk**
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusleiteCordeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusleiteCordeiro&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
