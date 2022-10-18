@@ -2,12 +2,15 @@
 <h3 align="center">Atualmente, curso Desenvolvimento de Software, focado no Desenvolvimento Web, na Trybe. Conheci o mundo da programação há cerca de 2 anos e, desde então, convivo com minha paixão. Estou em busca de me aprimorar na área cada vez mais e contribuir para o mercado como eu puder</h3>
 
 - 📫 Como me achar: **https://www.linkedin.com/in/matheus-leite-cordeiro/**
-
+- 🔭 Trabalho: Trabalho como freelancer, quando sobra tempo dos estudos
 - ⚡ Fato divertido: **Devo ser o único programador não gamer kkkk**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href=mailto:agentavery@sample.com target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusleitecordeiro@gmail.com" height="30" width="40" /></a>
+<a href=mailto:matheusleitecordeiro@gmail.com target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHistory_of_Gmail&psig=AOvVaw2NWWVTQs3xyRgQqOe6C9V1&ust=1666190483993000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIjihbOB6voCFQAAAAAdAAAAABAE" alt="matheusleitecordeiro@gmail.com" height="30" width="40" /></a>
+</p>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/matheus-leite-cordeiro/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheus-leite-cordeiro/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
