@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu me chamo Matheus Emanuel Leite Cordeiro</h1>
+<h1 align="center">Opa, Eu me chamo Matheus Emanuel Leite Cordeiro</h1>
 <h1 align="left">Resumo:</h1>
 <h4 align="left">Atualmente, curso Desenvolvimento de Software, focado no Desenvolvimento Web, na Trybe. Em paralelo, quando sobra tempo dos estudos, atuo como freelancer. Conheci o mundo da programação há cerca de 2 anos e, desde então, convivo com minha paixão. Estou em busca de me aprimorar na área cada vez mais e contribuir para o mercado como eu puder.</h4>
 
