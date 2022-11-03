@@ -3,6 +3,8 @@
 <h2 align="left">Resumo:</h2>
 <h4 align="left">Atualmente, curso Desenvolvimento de Software, focado no Desenvolvimento Web, na Trybe. Em paralelo, quando sobra tempo dos estudos, atuo como freelancer. Conheci o mundo da programação há cerca de 2 anos e, desde então, convivo com minha paixão. Estou em busca de me aprimorar na área cada vez mais e contribuir para o mercado como eu puder.</h4>
 
+<h2 align="left">Github status:</h2>
+
 <div align="left">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusleiteCordeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusleiteCordeiro&layout=compact&langs_count=7&theme=tokyonight"/>
