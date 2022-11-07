@@ -3,6 +3,9 @@
 <h2 align="left">Resumo:</h2>
 <h4 align="left">Atualmente, curso Desenvolvimento de Software, focado no Desenvolvimento Web, na Trybe. Em paralelo, quando sobra tempo dos estudos, atuo como freelancer. Conheci o mundo da programação há cerca de 2 anos e, desde então, convivo com minha paixão. Estou em busca de me aprimorar na área cada vez mais e contribuir para o mercado como eu puder.</h4>
 
+ <p><strong>:zap: Objetivos:</strong> concluir o curso de Desenvolvimento de Software da Trybe e ingressar no mercado de tecnologia, atuando numa empresa que me permita contribuir para o mercado.</p>
+ <p><strong>:blue_heart: Curiosidades: </strong> gosto muito de animes e pratico capoeira.</p>
+
 <h2 align="left">Github status:</h2>
 
 <div align="left">
