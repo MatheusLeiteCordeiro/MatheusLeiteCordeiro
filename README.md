@@ -1,10 +1,10 @@
 <h1 align="left">Opa!!, eu me chamo Matheus Emanuel</h1>
 
 <h2 align="left">Resumo:</h2>
-<h4 align="left">Atualmente, curso bachalerado em Engenharia de Software no IFPE Campus Belo Jardim. Em paralelo, quando sobra tempo dos estudos, atuo como freelancer. Conheci o mundo da programação há cerca de 3 anos e, desde então, convivo com minha paixão. Estou em busca de me aprimorar na área cada vez mais e contribuir para o mercado como eu puder.</h4>
+<h4 align="left">Atualmente, curso bachalerado em Engenharia de Software no IFPE Campus Belo Jardim. Conheci o mundo da programação há cerca de 5 anos e desde então convivo com minha paixão. Estou em busca de me aprimorar na área cada vez mais e contribuir para o mercado como eu puder.</h4>
 
- <p><strong>:zap: Objetivos:</strong> concluir o curso de Engenharia de Software e ingressar no mercado de tecnologia, atuando numa empresa que me permita contribuir para o mercado.</p>
- <p><strong>:blue_heart: Curiosidades: </strong> gosto muito de animes e pratico capoeira.</p>
+ <p><strong>:zap: Objetivos:</strong> concluir o curso de Engenharia de Software e ingressar no mercado de tecnologia.</p>
+ <p><strong>:blue_heart: Curiosidades: </strong> gosto muito de música, animes e pratico capoeira.</p>
 
 <h2 align="left">Github status:</h2>
 
