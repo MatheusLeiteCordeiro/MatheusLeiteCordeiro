@@ -1,4 +1,4 @@
-<h1 align="left">Opa!!, eu me chamo Matheus Emanuel</h1>
+<h1 align="left">Opa!! eu me chamo Matheus Emanuel</h1>
 
 <h2 align="left">Resumo:</h2>
 <h4 align="left">Atualmente, curso bachalerado em Engenharia de Software no IFPE Campus Belo Jardim. Conheci o mundo da programação há cerca de 5 anos e desde então convivo com minha paixão. Estou em busca de me aprimorar na área cada vez mais e contribuir para o mercado como eu puder.</h4>
