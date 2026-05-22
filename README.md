@@ -4,7 +4,7 @@
 <h4 align="left">Atualmente, curso bachalerado em Engenharia de Software no IFPE Campus Belo Jardim. Conheci o mundo da programação há cerca de 5 anos e desde então convivo com minha paixão. Estou em busca de me aprimorar na área cada vez mais e contribuir para o mercado como eu puder.</h4>
 
  <p><strong>:zap: Objetivos:</strong> concluir o curso de Engenharia de Software e ingressar no mercado de tecnologia.</p>
- <p><strong>:blue_heart: Curiosidades: </strong> gosto muito de música, animes e pratico capoeira.</p>
+ <p><strong>:blue_heart: Curiosidades: </strong> gosto muito de música, animes e capoeira.</p>
 
 <h2 align="left">Linguagens e Ferramentas:</h2>
 
